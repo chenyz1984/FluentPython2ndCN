@@ -15,7 +15,7 @@
 
 # 3. 捐赠激励
 
-码字不易，捐赠随意，感谢支持。
+码字不易，如果您觉得内容还不错，不妨捐赠一下，以示激励。
 
 <img src="https://github.com/user-attachments/assets/b165bae3-d311-4042-b81d-2e58074d7279" alt="wechat" width="200" height="200" />
 <img src="https://github.com/user-attachments/assets/ddaafb6d-efeb-4a72-8ae3-8d560bac2b1e" alt="alipay" width="200" height="200" />
