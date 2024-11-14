@@ -21,7 +21,7 @@ jobs:
 
     - name: Sync to Gitee
       env:
-        GITEE_REPO: https://gitee.com/chenyingzi/FluentPython2ndCN.git
+        GITEE_REPO: gitee.com/chenyingzi/FluentPython2ndCN.git
       run: |
         
         # 克隆 Gitee 仓库
