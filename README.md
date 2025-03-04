@@ -46,7 +46,7 @@
 
 # 5. 捐赠激励
 
-码字不易，如果您觉得内容还不错，不妨捐赠一杯瑞幸吧（留邮箱、书名），以示激励。捐赠后，可**去除密码**。
+码字不易，如果您觉得内容还不错，不妨捐赠一杯瑞幸吧（留邮箱、书名），以示激励。捐赠后，可**去除密码、减少及淡化水印**。
 
 <img src="https://github.com/user-attachments/assets/5bfe3425-1cb8-4726-8d2b-373368f01f11" alt="wechat" width="300" height="300" />
 <img src="https://github.com/user-attachments/assets/4f5fe6d6-d7d5-4b36-9a73-72928f687276" alt="alipay" width="300" height="300" />
