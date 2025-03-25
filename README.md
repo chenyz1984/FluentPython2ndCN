@@ -2,7 +2,7 @@
  * @Author: ChenYingzi chenyingzi1984@outlook.com
  * @Date: 2024-12-03 13:36:25
  * @LastEditors: ChenYingzi chenyingzi1984@outlook.com
- * @LastEditTime: 2025-03-03 14:18:34
+ * @LastEditTime: 2025-03-25 13:27:34
  * @FilePath: \FluentPython2ndCN\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -34,7 +34,7 @@
 |--------|--------|--------|--------|
 |《流畅的Python-第2版》|《Fluent Python, 2nd Ed》|已完稿|[https://github.com/chenyz1984/FluentPython2ndCN](https://github.com/chenyz1984/FluentPython2ndCN)|
 |《Go Cookbook（中文版）》|《Go Cookbook》|已完稿|[https://github.com/chenyz1984/GoCookbookCN](https://github.com/chenyz1984/GoCookbookCN)|
-|《学习Go语言-第2版》|《Learning Go, 2nd Ed》|进行中|[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)|
+|《Go语言学习指南-第2版》|《Learning Go, 2nd Ed》|进行中|[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)|
 |《Oracle 23c 数据库概念手册》|《Oracle Database Concepts》|已完稿|[https://github.com/chenyz1984/OraConceptCN](https://github.com/chenyz1984/OraConceptCN)|
 
 
