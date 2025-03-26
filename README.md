@@ -53,19 +53,21 @@
 
 ## 5.1. 捐赠列表
 
-<img src="https://github.com/user-attachments/assets/a74d1df6-1916-4e53-8ace-8363303aed58" alt="votelist" width="850" />
+<img src="https://github.com/user-attachments/assets/736ea0d9-6f3f-4f84-acde-020bce71838e" alt="votelist" width="850" />
 
 # 6. 样章展示
 ## 6.1. 目录截图
-<img src="https://github.com/user-attachments/assets/9dd5dab9-763a-4813-aa72-8190ab000c38" alt="目录" width="800" />
+<img src="https://github.com/user-attachments/assets/86fb79b7-c95e-4280-86f3-fb894c8dd873" alt="目录" width="800" />
 
 ## 6.2. 正文截图
 ### 6.2.1 代码块语法高亮
-<img src="https://github.com/user-attachments/assets/6007a7b2-2f5d-4617-9a8e-0fc1ae857c7a" alt="正文1" width="800" />
+<img src="https://github.com/user-attachments/assets/427af550-875f-43cf-9c49-8f108dd6a6d1" alt="正文1" width="800" />
 
 ### 6.2.2 术语超链接、重点颜色标记
-<img src="https://github.com/user-attachments/assets/d2da42c9-58cf-4577-ad24-e2599f31cac9" alt="正文2" width="800" />
+<img src="https://github.com/user-attachments/assets/4fab2eb5-bb5a-4fc0-830d-be521af30a61" alt="正文2" width="800" />
 
 ## 6.3. 术语表截图
-<img src="https://github.com/user-attachments/assets/5f3918ad-4220-4127-9752-9ec699f21a9f" alt="正文" width="800" />
+<img src="https://github.com/user-attachments/assets/b6df797a-9508-48ef-992f-09b9e2e59ca1" alt="正文" width="800" />
+
+
 
