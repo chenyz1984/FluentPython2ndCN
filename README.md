@@ -53,7 +53,9 @@
 
 ## 5.1. 捐赠列表
 
-<img src="https://github.com/user-attachments/assets/736ea0d9-6f3f-4f84-acde-020bce71838e" alt="votelist" width="850" />
+<img src="https://github.com/user-attachments/assets/1076a148-cf75-44b6-a351-0a9ddf0d475a" alt="votelist" width="850" />
+<img src="https://github.com/user-attachments/assets/c33167e2-3b78-425a-aa7c-2ec3b285682f" alt="votelist" width="850" />
+<img src="https://github.com/user-attachments/assets/1653183d-8e31-4dcf-896f-26f295bff7a2" alt="votelist" width="850" />
 
 # 6. 样章展示
 ## 6.1. 目录截图
