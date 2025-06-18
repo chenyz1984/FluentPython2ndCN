@@ -57,6 +57,8 @@
 <img src="https://github.com/user-attachments/assets/c33167e2-3b78-425a-aa7c-2ec3b285682f" alt="votelist" width="850" />
 <img src="https://github.com/user-attachments/assets/1653183d-8e31-4dcf-896f-26f295bff7a2" alt="votelist" width="850" />
 
+感谢以上读者的捐赠
+
 # 6. 样章展示
 ## 6.1. 目录截图
 <img src="https://github.com/user-attachments/assets/86fb79b7-c95e-4280-86f3-fb894c8dd873" alt="目录" width="800" />
